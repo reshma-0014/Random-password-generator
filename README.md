@@ -1,3 +1,3 @@
 # Random-password-generator
 
-It generates password that will never be deleted.
+It generates strong and easy passwords.
