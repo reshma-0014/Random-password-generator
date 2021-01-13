@@ -1,7 +1,2 @@
-print("hi")
-# hi
-# hi
-# hi
-print(4+8)
-print("hi")
-#code
+print("Welcome")
+print("password will be generated on the based of the following")
